@@ -17,9 +17,7 @@ def question_two():
     question = Label(root, text="")
     answer = Entry()
     btn = Button(root, text="")
-    question.grid()
-    answer.grid()
-    btn.grid()
+
 
 question_one()
 
